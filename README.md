@@ -1,3 +1,3 @@
 # Java snake game
 
-![](https://github.com/FrancescoLindiner/SnakeGame/edit/main/media/gif.gif)
+![](https://github.com/FrancescoLindiner/SnakeGame/tree/main/media/gif.gif)
